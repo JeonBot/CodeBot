@@ -1,11 +1,10 @@
-// <ÇÁ·Î±×·¥ ¹øÈ£: 2¹ø 1Àå Open Challenge(48ÂÊ)>
-// ÀÛ¼ºÀÚ: Àü ÁØÈ£(B289086)
-// ³¯Â¥  : 2015³â 9¿ù 3ÀÏ
-// ¼³¸í  : ÀÌ ÇÁ·Î±×·¥Àº Ã¥ 48ÂÊ¿¡ Áö½ÃÇÑ ´ë·Î ÀÚ½ÅÀ» ¼Ò°³ÇÏ´Â ÇÁ·Î±×·¥ÀÌ´Ù.
+// <í”„ë¡œê·¸ë¨ ë²ˆí˜¸: 2ë²ˆ 1ì¥ Open Challenge(48ìª½)>
+// ë‚ ì§œ  : 2015ë…„ 9ì›” 3ì¼
+// ì„¤ëª…  : ì´ í”„ë¡œê·¸ë¨ì€ ì±… 48ìª½ì— ì§€ì‹œí•œ ëŒ€ë¡œ ìì‹ ì„ ì†Œê°œí•˜ëŠ” í”„ë¡œê·¸ë¨ì´ë‹¤.
 
 public class MyInfoApp {
         public static void main(String[] args) {
-                System.out.println("Junho Jeon");                        //Ãâ·Â°ú °³ÇàÀ» À§ÇØ printlnÀ» »ç¿ëÇÏ°í ¹®ÀÚ¿­À» ÀÔ·Â
+                System.out.println("JJH");                        //ì¶œë ¥ê³¼ ê°œí–‰ì„ ìœ„í•´ printlnì„ ì‚¬ìš©í•˜ê³  ë¬¸ìì—´ì„ ì…ë ¥
                 System.out.println("25 years old");
                 System.out.println("Computer Information Communication");
         }
