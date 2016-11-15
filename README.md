@@ -1,3 +1,2 @@
 # CodeBot
-Java Code
-Just started repository
+My First Github repository.
